@@ -8,10 +8,6 @@ This is a project for networking 2 course by Armando Ríos Gallego and Julian Ri
 • El sistema debe abrir los detalles de cada curso para ver en específico sobre qué trata cada proyecto y quiénes los hacen.
     
 • El sistema debe dividir los proyectos según el curso para diferenciarlos fácilmente.
-    
-• El sistema debe mostrar quienes hicieron el proyecto, profesor, y un resumen con su respectiva imagen y fecha de publicación.
-    
-• El sistema debe separar por semestres los proyectos publicados.
 
 ###  Non-Functional Requirements:
 
@@ -19,7 +15,7 @@ This is a project for networking 2 course by Armando Ríos Gallego and Julian Ri
 
 • La respuesta de la página debe ser menor a 2 segundos.
 
-• Debe estar disponible mínimo disponible 23 horas, 6 o 7 días a la semana. 
+• Debe estar disponible. 
 
 • El acceso a la información debe ser fácil.
 
