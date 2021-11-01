@@ -1,5 +1,5 @@
 # Deployment-tet-2
-This is a project for networking 2 course 
+This is a project for networking 2 course by Armando Ríos Gallego and Julian Rios Vasquez
 ## Requirements
 ### Functional Requirements 
 
