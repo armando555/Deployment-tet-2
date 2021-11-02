@@ -22,9 +22,9 @@ spec:
             value: 34.82.7.61:3306
           # These secrets are required to start the pod.
           - name: WORDPRESS_DB_USER
-            value: root
+            value: "root"
           - name: WORDPRESS_DB_PASSWORD
-            value: 12345678
+            value: "12345678"
           ports:
             - containerPort: 80
               name: wordpress
