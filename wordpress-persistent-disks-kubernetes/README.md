@@ -24,6 +24,7 @@ Go to the directory called wordpress-persistent-disks-kubernetes
 ```
 cd Deployment-tet-2/wordpress-persistent-disks-kubernetes
 ```
+## We have to write on the yml files the host, user and password BD
 Now, we stablish the work directory with a env variable
 ```
 WORKING_DIR=$(pwd)
