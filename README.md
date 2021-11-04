@@ -104,4 +104,5 @@ With this docker-compose.yml, we have to run first the docker-compose up with th
 ## This is the design level
 ![](images/niveldiseno-1.png)
 ![](images/niveldiseno-2.png)
-## This is the design and implementation level
+## This is de pricing of this project monthly
+![](images/Costos.png)
