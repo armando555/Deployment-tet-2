@@ -105,3 +105,5 @@ sudo systemctl start mysql
 ```
 mysql -u root -p -e "SHOW STATUS LIKE 'wsrep_cluster_size'"
 ```
+
+this tutorial is based on https://www.digitalocean.com/community/tutorials/how-to-configure-a-galera-cluster-with-mariadb-on-ubuntu-18-04-servers
